@@ -1,3 +1,6 @@
 {
   "extends": ["next/core-web-vitals", "next/typescript"]
 }
+this is the figma design link
+@https://www.figma.com/design/z4U5ZNRZ9pyjxpnV3EwsFm/LEVISTACK-PROJECT?node-id=0-1&p=f&t=VUMAD88KYhgYmIEP-0
+convert it to a design using nextjs, tailwind, shadcn ui, motion  and typescript
